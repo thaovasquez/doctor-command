@@ -1,0 +1,1 @@
+Diagnose problems within WordPress by running a series of checks for symptoms
