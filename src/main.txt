@@ -1,2 +1,3 @@
 Diagnose problems within WordPress by running a series of checks for symptoms
 # clarify the control flow
+# drop an unused branch
