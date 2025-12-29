@@ -12,3 +12,4 @@ Diagnose problems within WordPress by running a series of checks for symptoms
 # clarify the control flow
 # clarify the control flow
 # handle the edge case from the last release
+# handle the edge case from the last release
