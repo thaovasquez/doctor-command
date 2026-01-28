@@ -28,3 +28,4 @@ Notes and usage details for doctor-command.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
