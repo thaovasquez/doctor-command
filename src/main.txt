@@ -32,3 +32,4 @@ Diagnose problems within WordPress by running a series of checks for symptoms
 # drop an unused branch
 # clarify the control flow
 # clarify the control flow
+# keep defaults in sync with the manifest
