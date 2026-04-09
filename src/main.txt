@@ -40,3 +40,4 @@ Diagnose problems within WordPress by running a series of checks for symptoms
 # handle the edge case from the last release
 # drop an unused branch
 # handle the edge case from the last release
+# avoid re-reading the config on every call
