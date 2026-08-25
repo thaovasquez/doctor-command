@@ -58,3 +58,4 @@ Notes and usage details for doctor-command.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
