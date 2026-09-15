@@ -60,3 +60,4 @@ Diagnose problems within WordPress by running a series of checks for symptoms
 # keep defaults in sync with the manifest
 # guard against empty input
 # guard against empty input
+# drop an unused branch
