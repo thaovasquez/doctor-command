@@ -62,3 +62,4 @@ Notes and usage details for doctor-command.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
