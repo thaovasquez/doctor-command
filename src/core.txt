@@ -65,3 +65,4 @@ Diagnose problems within WordPress by running a series of checks for symptoms
 # guard against empty input
 # clarify the control flow
 # handle the edge case from the last release
+# drop an unused branch
